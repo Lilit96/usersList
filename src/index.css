@@ -1,0 +1,37 @@
+.input-width{
+  width: 30rem;
+}
+.edit{
+  background-image: url('./icons/edit.png');
+  width: 24px;
+  height: 24px;
+}
+.delete{
+  width: 24px;
+  height: 24px;
+  background-image: url('./icons/delete.png');
+}
+.checked{
+  width: 24px;
+  height: 24px;
+  background-image: url('./icons/checked.png');
+}
+
+.more{
+  width: 24px;
+  height: 24px;
+  background-image: url('./icons/more.png');
+}
+
+.checked:hover{
+  cursor: pointer
+}
+.edit:hover{
+  cursor: pointer;
+}
+.delete:hover{
+  cursor: pointer;
+}
+.more:hover{
+  cursor: pointer;
+}
